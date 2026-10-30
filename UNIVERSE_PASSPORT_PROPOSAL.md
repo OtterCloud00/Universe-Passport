@@ -77,15 +77,7 @@ L’obiettivo è aiutare i partecipanti a:
 - `/challenges` — challenge e leaderboard
 - `/speakers` — speaker spotlight
 - `/updates` — live info e annunci
-- `/profile` — saved sessions + stats personali
-
-## Stack consigliato
-
-- Frontend: Next.js
-- Linguaggio: TypeScript
-- Styling: Tailwind CSS
-- Data layer: Supabase o mock JSON
-- Deploy: Vercel
+- `/profile` — saved sessions + stats 
 
 ## Design vibe
 
